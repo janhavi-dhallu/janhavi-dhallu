@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janhavi-dhallu" alt="janhavi-dhallu" /></a> </p>
 
 - 🔭 I’m currently working on HR Analytics
-<img align="right" alt="Welcome" width="500" src="https://static.wixstatic.com/media/5e1f15_e53567d92b3c4ebc8da49eba82d64911~mv2.gif">
 
 - 🌱 I’m currently learning about financial modelling.
 
