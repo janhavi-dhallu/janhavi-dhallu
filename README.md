@@ -35,10 +35,9 @@
 </br></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janhavi-dhallu&show_icons=true&locale=en&layout=compact" alt="janhavi-dhallu" /></p><br>
-<body></body>
-<div class="image-container">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janhavi-dhallu&show_icons=true&locale=en" alt="janhavi-dhallu" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi-dhallu&" alt="janhavi-dhallu" /></p><br>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janhavi-dhallu&show_icons=true&locale=en" alt="janhavi-dhallu" /></p><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi-dhallu&" alt="janhavi-dhallu" /></p><br>
+
 </body>
